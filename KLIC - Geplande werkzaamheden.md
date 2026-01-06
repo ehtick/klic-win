@@ -1,4 +1,12 @@
-# Geplande en uitgevoerde werkzaamheden (bijgewerkt 27 oktober)
+# Geplande en uitgevoerde werkzaamheden (bijgewerkt 5 januari)
+-------------------------------------------------------------------------------------
+## Release – 6 januari 2026
+
+Voor deze release is het volgende onderwerp gepland:
+**Aanvragen via Mijn Kadaser**:
+- Vanaf 6 januari is het niet meer mogelijk om een postbusadres op te geven bij de bedrijfsgegevens van een opdrachtgever.  \
+  (*Merk op dat via de B2B-REST-API het gebruik van postbusadressen sinds de invoering al niet meer wordt ondersteund.*)
+
 -------------------------------------------------------------------------------------
 ## Release – 21 oktober 2025
 

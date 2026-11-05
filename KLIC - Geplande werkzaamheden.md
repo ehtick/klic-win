@@ -1,4 +1,4 @@
-# Geplande en uitgevoerde werkzaamheden (bijgewerkt 9 oktober)
+# Geplande en uitgevoerde werkzaamheden (bijgewerkt 5 november)
 -------------------------------------------------------------------------------------
 ## Release – medio 2027
 
@@ -7,7 +7,7 @@ In 2027 stapt het Kadaster over op een veilig en toekomstbestendig inlogsysteem.
 Als u niet inlogt met eHerkenning dan is vanaf de implementatie inloggen met uw e-mailadres en 2 factor authenticatie zoals Google of Microsoft authenticator verplicht. Meer informatie vindt u op [E-mailadres doorgeven voor Mijn Kadaster - Kadaster.nl zakelijk](https://www.kadaster.nl/zakelijk/mijn-kadaster/emailadres-doorgeven-mijn-kadaster).
 
 -------------------------------------------------------------------------------------
-## Release – 20 oktober 2026
+## Release – eind november 2026
 
 > Externe Test Omgeving (ETO) per 14 oktober 
 
